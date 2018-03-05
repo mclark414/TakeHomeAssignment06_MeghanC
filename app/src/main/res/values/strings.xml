@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="secondAct">Your Receipt</string>
+    <string name="bill">Bill Amount</string>
+    <string name="tax">Tax in Decimal</string>
+    <string name="percent">Tip Percent in Decimal</string>
+    <string name="submit">Submit</string>
+</resources>
